@@ -1,4 +1,4 @@
-# Meteor package - Ethereum network info
+# Meteor package - Vapory network info
 
 Waits for a `web3` connection and then extracts network info.
 
